@@ -1,5 +1,5 @@
 # EECS598_course-project
-This a course project of EECS 598 instructed by Prof. Justin Johnson, which is done myself.
+This a course project of EECS 598 instructed by Prof. Justin Johnson, which is done myself. The project is based on FSRCNN (https://arxiv.org/abs/1608.00367)
 
 Upscaling factor 2
 
